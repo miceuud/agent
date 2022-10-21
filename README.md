@@ -2,12 +2,11 @@
 
 ## Description
 
-This is a very simplitic agent logs finding when a transfer event occurs
+This is a very basic agent logs finding when a transfer event occurs. This just for testing
 
 ## Supported Chains
 
 - Ethereum
-- List any other chains this agent can support e.g. BSC
 
 ## Alerts
 
